@@ -24,7 +24,13 @@ and invalid records were removed. Key performance indicators such as impressions
 and ROI were calculated using DAX to enable dynamic analysis.
 # Dashboard Analysis and Insights
 
-Overall Performance
-The dashboard shows 44,557,842 total impressions, 4,405,030 clicks, 3,562,712 conversions, total acquisition cost of $2.5 billion, and overall ROI of 497%. This indicates strong overall performance but also highlights the need to focus spending on the most efficient campaigns.
+![Annotation 2026-02-02 053145](https://github.com/user-attachments/assets/52d7b4a6-dbe1-476f-a1c7-d00813d45310)
+
+# Overall Performance
+The dashboard shows 44,557,842 total impressions,
+4,405,030 clicks, 3,562,712 conversions, 
+total acquisition cost of $2.5 billion,
+and overall ROI of 497%. 
+This indicates strong overall performance but also highlights the need to focus spending on the most efficient campaigns.
 
 
